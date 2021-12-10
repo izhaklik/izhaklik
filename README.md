@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @izhaklik
 - 👀 I’m interested in:  PENTESTING & Cyber Security
-- 🌱 I’m currently learning: BASH & PYTHON
-- 📫 How to reach me: izik.likvornik@gmail.com
+- 🌱 I’m currently learning: PYTHON & Blockchain Programing
+ - 📫 How to reach me: izik.likvornik@gmail.com
 
 <!---
 izhaklik/izhaklik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
